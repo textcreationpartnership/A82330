@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The demands and desires of His Excellency the Lord General Fairfax, and his Generall Councell of Officers. To the Right Honorable the Lord Major, and court of aldermen, and their resolution touching all other officers and citizens, who shall oppose or neglect the said demands and desires. With His Excellencies message and proposals to the Lord Major, shewing the grounds and reasons of the armies entring the said city, and upon what terms and conditions he will remand them back again. Likewise, the impeachment, demands, and proposals of the Army, concerning Major Generall Brown. By the appointment of His Excellency the Lord Fairfax Lord Generall, and his Generall Councell of Officers, signed, John Rushworth, Secr.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82330</idno>
+            <idno type="STC">Wing D972</idno>
+            <idno type="STC">Thomason E475_36</idno>
+            <idno type="STC">ESTC R205457</idno>
+            <idno type="EEBO-CITATION">99864830</idno>
+            <idno type="PROQUEST">99864830</idno>
+            <idno type="VID">162489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The demands and desires of His Excellency the Lord General Fairfax, and his Generall Councell of Officers. To the Right Honorable the Lord Major, and court of aldermen, and their resolution touching all other officers and citizens, who shall oppose or neglect the said demands and desires. With His Excellencies message and proposals to the Lord Major, shewing the grounds and reasons of the armies entring the said city, and upon what terms and conditions he will remand them back again. Likewise, the impeachment, demands, and proposals of the Army, concerning Major Generall Brown. By the appointment of His Excellency the Lord Fairfax Lord Generall, and his Generall Councell of Officers, signed, John Rushworth, Secr.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Woolridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162489:1" rendition="simple:additions"/>
+            <p>THE DEMANDS AND DESIRES Of His Excellency the Lord General FAIRFAX, <hi>AND His Generall Councell of Officers.</hi> TO The Right Honorable the Lord Major, and Court of Alder<g ref="char:EOLhyphen"/>men, and their Reſolution touching all other Officers and Citizens, who ſhall oppoſe or neglect the ſaid Demands and Deſires. WITH His Excellencies Meſſage and Propoſals to the Lord Major, ſhewing the grounds and reaſons of the Armies entring the ſaid City, and upon what terms and conditions he will remand them back again. LIKEWISE, The Impeachment, Demands, and Propoſals of the Army, concerning Major Generall <hi>Brown.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>BY the Appointment of His Excellency the Lord</hi> Fairfax <hi>Lord Generall, and His Generall Councell of Officers,</hi>
+                     </p>
+                     <closer>
+                        <signed>Signed, JOHN RUSHWORTH, Secr.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for JOHN WOOLRIDGE, 1648.</p>
+            <pb facs="tcp:162489:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162489:2"/>
+            <head>THE DEMANDS OF THE ARMY, TO The Lord Major of <hi>London,</hi> concerning Major Gen. <hi>Brown,</hi> and the City.</head>
+            <p>ON <hi>Friday</hi> Decemb. 7. Col. <hi>Dean</hi> entred the City of <hi>London</hi> with a party of Horſe and Foot, and ſeized on the Treaſuries in Goldſmiths Hall, and Weavers Hall, for the payment of the Souldiery, during their reſidence hereabouts; another party alſo marched to the Seſſions houſe in the Old Bayley, where they demanded the perſon of Major Gen. <hi>Brown;</hi> but the Lord Major enga<g ref="char:EOLhyphen"/>ged
+<pb n="2" facs="tcp:162489:3"/>for his forth comming, and gave a ſatisfactory anſwer to the Officers who came to ſeize his perſon; from thence they marched to Guidl-hall, and other places in the City, deporting themſelves with great civility, and (in obedience to the Command of the Lord Generall) quartered at <hi>Pauls, Black-Friers,</hi> and other places adjacent.</p>
+            <p>His Excellency likewiſe ſent a declaratory meſſage to the Lord Major, in order to the proceedings of the Soldie<g ref="char:EOLhyphen"/>ry, a copy whereof followeth.</p>
+            <div type="declaration">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>HAving ſent ſo often to you for the arreares due from the City, and deſired ſums of money to be advanced by you, far ſhort of the ſums due from you, yet I have been delayed and denied, to the hazard of the army, and the pre<g ref="char:EOLhyphen"/>judice of others in the Suburbs upon whom they are quar<g ref="char:EOLhyphen"/>tered; wherefore I thought fit to ſend to ſeize the ſaid Tre<g ref="char:EOLhyphen"/>ſuries, and to ſend ſome forces into the City to quarter there, untill I may be ſatisfied the Arrears due unto the Ar<g ref="char:EOLhyphen"/>my: and if this ſeem ſtrange unto you, 'tis no leſſe then that our forces have been ordered to do by the Parl. in the ſeve<g ref="char:EOLhyphen"/>rall Counties of the Kingdome where aſſeſments have not bin paid, and there to continue untill they have bin paid: and here give me leave to tell you, the Counties of the kingdom have born free quarter, and that in a great meaſure, for want of your paying your Arrears equally with them; wherfore, theſe wayes if they diſlike you, yet they are meerly long of your ſelves, and are of as great regret to me and to the Ar<g ref="char:EOLhyphen"/>my as your ſelves, we wiſhing not only the good and pro<g ref="char:EOLhyphen"/>ſperity of your City, but that things may be ſo carried to<g ref="char:EOLhyphen"/>wards you, as may give no cauſe of jealouſie: I thought fit to let you know, that if you ſhall take a ſpeedy courſe to ſupply us with 40000. <hi>l.</hi> forthwith, according to my for<g ref="char:EOLhyphen"/>mer
+<pb n="3" facs="tcp:162489:3"/>Deſire, and provide ſpeedily what alſo is in Arrear, I ſhall not only cauſe the monies in the Treaſuries to bee not made uſe of, but leave them to be diſpoſed of as right they might, and alſo cauſe my Forces to be withdrawn from be<g ref="char:EOLhyphen"/>ing in any ſort troubleſome or chargable to the City; And let the world judge whether this be not juſt and equal dea<g ref="char:EOLhyphen"/>ling with you.</p>
+               <closer>
+                  <signed>I reſt, My Lord, <hi>Your affectionate ſervant,</hi> T. FAIRFAX.</signed>
+               </closer>
+            </div>
+            <div type="declaration">
+               <opener>
+                  <salute>May it pleaſe your Excellency,</salute>
+               </opener>
+               <p>WE your Excellencies Servants, not ſtirred up by any affec<g ref="char:EOLhyphen"/>tion to meddle with matters beſides the buſineſſe of our reſpective Imployments, nor any way favouring diſtempers a<g ref="char:EOLhyphen"/>mongſt our ſelves, or others, but ſingly and faithfully we come to your Excellency in this petition abundantly preſſed thereto from the conſcience and ſenſe we have of the neer approach of Ruine to all honeſt parties of the Kingdom; and your ſelf and the Army a<g ref="char:EOLhyphen"/>mongſt the reſt, whereof the preſent tranſactions with the King, the late tranſactions of the Scots, and of a prevalent party in the Houſes, are palpable and unhappy evidences to all the word, a-moulding ſuch a cloſure of the preſent differences, as we apprehend moſt certainly ſtrengthen all the old corruptions in the former Go<g ref="char:EOLhyphen"/>vernment and ſo leave the Kingdom in a more deſperate bondage then yet it ever felt. Amongſt all which generals we further preſent your Excellency with theſe enſuing particulars.</p>
+               <p n="1">1 By what evidences and proofes, or upon what Reaſons and grounds the King ſtands acquitted of the charge of the Houſes a<g ref="char:EOLhyphen"/>gainſt him, in their late Declaration to the Kingdom.</p>
+               <p n="2">2 What perſons eſpecially what members of either Houſes have plaid the Traytors, by inviting the Scots to invade this Kingdome, or gave them countenance, or incouragement in that perfidious at<g ref="char:EOLhyphen"/>tempt.</p>
+               <p n="3">3 That the promoters of the firſt and ſecond war bee brought to Juſtice.</p>
+               <p n="4">4 That the arrears and debts of the Kingdom be ſecured and ſa<g ref="char:EOLhyphen"/>tisfied, and that the publike faith be not made a publike fraud to the Kingdom,</p>
+               <closer>
+                  <signed>Signed by the Officers and Souldiers in the VVeſt of England.</signed>
+               </closer>
+            </div>
+            <pb n="4" facs="tcp:162489:4"/>
+            <div type="impeachment">
+               <head>The Armies Impeachment.</head>
+               <p>THat whereas <hi>Denzil Hollis</hi> Eſq; <hi>Lionel Copley</hi> Eſq; Maj. Gen. <hi>Maſsy,</hi> and others of your members, were in the year 1647. impeached by your ſelves for treaſon or for high crimes and miſdemeanours, in relation to the treaſonable Engagement of the city of <hi>London,</hi> &amp;c. and upon cleer proofs againſt them, were by your cenſure expelled the Houſe; yet by the prevalency of their Faction the ſame perſons were afterwa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds readmitted to ſit in the Houſe, and vote as formerly, without any tryall or ſatisfa<g ref="char:EOLhyphen"/>ction in the things whereof they were accuſed: We demand that all thoſe members ſo impeached may be forthwith ſe<g ref="char:EOLhyphen"/>cured, to be brought to juſtice or tryal for their ſaid crims, and that ſuch others of their faction, may be ſecluded from the Houſe, &amp;c.</p>
+               <p>That whereas by the confederacy of Major Gen. <hi>Browne</hi> (now Sheriff of <hi>London</hi>) with the ſaid impeached members, and others, the Scots were invited and drawn in to invade this Kingdom the laſt Summer, inſomuch as when upon the actuall Invaſion the Houſe proceeded to declare them ene<g ref="char:EOLhyphen"/>mies, and thoſe that adhered to them traytors; yet the ſaid confederates and other treacherous members (to the num<g ref="char:EOLhyphen"/>ber of ninety and odd, as upon the diviſion of the Houſe appeared) did by their Councels and Votes endeavour to hinder the houſe from declaring againſt their confederate invaeers; We deſire, that the ſaid M.G. <hi>Brown</hi> may bee alſo ſecured and brought to judgment, and that the reſt of the ninety and odd perſons diſſenting in the ſaid vote, may bee excluded the houſe, and not truſted further in your Coun<g ref="char:EOLhyphen"/>cels.</p>
+               <p>That whereas in a continued Series of your proceedings for many moneths together, we have ſeen the prevalence of
+<pb n="5" facs="tcp:162489:4"/>the ſame treacherous, corupt, and divided councels, through factions and private intereſts, and in their late Votes decla<g ref="char:EOLhyphen"/>ring the Kings paſt conceſſions to be a ground for the houſe to proceed upon for the ſettlement of the peace of the <hi>king<g ref="char:EOLhyphen"/>dom,</hi> notwithſtanding the viſible inſufficiency and defects of them in things eſſentially concerning the publike intereſt &amp; liberties of the Kingdome.</p>
+               <p>That ſuch as by faithfulneſſe have retained their truſt, be<g ref="char:EOLhyphen"/>ing ſet in a condition to purſue and perform the ſame, with out ſuch interruptions, diverſions and depravations of coun<g ref="char:EOLunhyphen"/>cels, as formerly, We ſhall deſire and hope you will ſpeedi<g ref="char:EOLhyphen"/>ly nnd vigorouſly proceed, 1 To take order for the executi<g ref="char:EOLhyphen"/>on of Juſtice, 2 To ſet a ſhort period to your own power, 3 To provide for a ſpeedy ſucceſſion of equall Repreſenta<g ref="char:EOLhyphen"/>tives, according to our late Remonſtrance, wherein diffe<g ref="char:EOLhyphen"/>rences in the kingdom may be ended, and we and others may comfortably acquieſe; as (for our parts) we hereby ingage, and aſſure you we ſhall.</p>
+               <closer>
+                  <signed>
+                     <hi>By the Appointment of his Excellency the Lord</hi> Falrfax, <hi>Lord General, and his Generall Councel of Officers.</hi> Signed, JOHN RUSHWORTH, Secr.</signed>
+               </closer>
+               <postscript>
+                  <p>Col. <hi>Pride</hi> having received Orders from the Generall, to ſecure a certain number of the Parliament, on Wedneſ<g ref="char:EOLhyphen"/>day laſt marched with his Regiment to Weſtminſter, and took divers of them into cuſtody, <hi>viz.</hi> Sir <hi>William VValler,</hi> Major Gen. <hi>Maſsey,</hi> Sir <hi>Benjamin Rudyard,</hi> Col. <hi>Hollis,</hi> Col. <hi>Fines,</hi> and about 30 more who are committed to ſafe cuſto<g ref="char:EOLhyphen"/>dy, and whether they ſhall have their inlargment upon pa<g ref="char:EOLhyphen"/>roll, or be continued priſoners is uncertain.</p>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:162489:5"/>
+               <p>His Excellench hath ſent a meſſage to the Aldermen of <hi>London,</hi> riquiring them to provide and make proviſion for the Souldiery, in order to their accommodation for Bed<g ref="char:EOLhyphen"/>ding, &amp;c. to be equally apportioned upon the ſeverall divi<g ref="char:EOLhyphen"/>ſions within their Wards, and upon the ſeverall Houſhol<g ref="char:EOLhyphen"/>ders that are of ability to furniſh the ſame.</p>
+               <p>And in caſe that any ſhall neglect therein, his Excellency doth declare, that he ſhall be neceſſitated to ſend Souldiers, either to fetch ſuch proportions of Bedding from them that faile, or elſe to quarter with them; and muſt take ſuch courſe againſt either thoſe Aldermen, and other Officers in the City, who ſhall neglect to rate and bring in the propor<g ref="char:EOLhyphen"/>tions required from their reſpective Wards and Diviſions, or againſt thoſe Inhabitants who ſhall refuſe to ſupply the proportions rated upon them, as ſhall be fit to uſe towards ſuch obſtinate oppoſers of that orderly ſupply, which is ſo neceſſary for the eaſe and quiet of the City, and for the ſub<g ref="char:EOLhyphen"/>ſiſtance of the Army.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
